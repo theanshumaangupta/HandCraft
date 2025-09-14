@@ -71,7 +71,7 @@ export default function Slider() {
         style={{ fontFamily: "Roboto" }}
       >
         <h1 style={{ fontFamily: "Merriweather" }} className="inline-block leading-snug text-3xl md:text-5xl text-center">
-          Natural Wool For Comfy Winter Clothes
+          Natural Wool For Comfy Winter Clothes.
         </h1>
         <p className="text-[1rem]">Lorem ipsum dolor sit, consectuer adipliscing elit.</p>
         <img src="/images/thread.png" alt="" />
