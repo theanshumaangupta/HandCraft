@@ -1,4 +1,4 @@
-Handcraft – Handmade Knitwear with Love
+Handcraft – A Frontend Project
 🚀 Live Demo
 
 🌐 https://hand-craft-six.vercel.app/
